@@ -1,4 +1,4 @@
-# Beijing-Multi-Site-Air-Quality-Prediction
+# Beijing Multi Site Air Quality Prediction
 
 Author: Team 1
 * 2863031 Yunan Chen
